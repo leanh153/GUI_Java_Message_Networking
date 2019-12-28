@@ -4,6 +4,7 @@
 
 - [Pre-Requisites](#Pre-Requisites)
 - [How to run](#How-to-run)
+- [Demo](#Demo)
 - [What's included](#whats-included)
 - [Creators](#creators)
 
@@ -15,6 +16,10 @@
 ## How to run
 
 - Following README.txt file in the project "dist" folder.
+
+## Demo
+
+- [Video](https://www.youtube.com/embed/UtJrt-_pvM4)
 
 ## What's included
 
